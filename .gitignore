@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.vcd
+*.wlf
+*.lst
+work/
+timing/compat/
+timing/mapped.json
+timing/synth.ys
+timing/latch_map.v
+timing/synthesis.log
+timing/flat.v
+timing/flatten.log

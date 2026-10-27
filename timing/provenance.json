@@ -1,0 +1,13 @@
+{
+  "analysis_date": "2026-10-28",
+  "source": "v0.9/area-estimate snapshot (2026-10-26)",
+  "tool": "OpenSTA 2.7.0",
+  "library": "sg13cmos5l_stdcell_typ_1p20V_25C.lib",
+  "library_sha256": "34163f3e7de9f854afac57332ba06f1739b78e7ac35660a8a5ddd39c570124ad",
+  "sha256": {
+    "mapped.v": "14ecbdf1519aa7c0075183abf657af51ed7d51c10b29260cc7d0c0a22282ee8b",
+    "constraints.sdc": "f09578235bd1fad0639a01216de07b9ddf3ed34d536a7b0cf2d58f777fb1dfdd",
+    "pre_route.tcl": "1132f43ab973a7cbef885a4eff1b3641c137dc0b544cbbaeb137900b29e30e7f",
+    "pre_route.rpt": "c64346eb5c6ad1661e253065961d8604ff51db9560aa11bef8d6ba48ca493c4f"
+  }
+}
